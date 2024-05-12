@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Marcos</h1>
 <h3 align="center">Um apaixonado desenvolvedor de software!</h3>
 
-- 🔭 Atualmente estou trabalhando na empresa DPOnet trabalhando com React, Typescript e Ruby on Rails
+- 🔭 Atualmente estou trabalhando na empresa DPOnet utilizando React, Typescript e Ruby on Rails
 - 🌱 Estou aprendendo Ruby on Rails, Node.js(Express.js), React.js, Next e Machine Learning
 
 <h3 align="left">Conecte-se comigo:</h3>
