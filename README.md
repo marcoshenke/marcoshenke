@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A passionate software developer!</h3>
 
-- 🔭 I'm currently working at the company DPonet using React, Typescript and Ruby on Rails
-- 🌱 I'm learning Ruby on Rails, Node.js(Express.js), React.js, Next and Machine Learning
+- 🔭 I'm currently working at the company DPOnet using React, Typescript and Ruby on Rails
+- 🌱 I am improving my knowledge acquired in Ruby on Rails, React.js and Typescript. I'm too learning Node.js(Express.js), NextJS, Machine Learning and Software Architecture.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
